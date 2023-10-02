@@ -7,7 +7,9 @@ Script to run the Google pagespeed insights api and record the performances in t
 ```
 git clone git@github.com:rcbcool/pagespeed-insights.git
 ```
+```
 cd pagespeed-insights/
+```
 ```
 npm i
 ```
