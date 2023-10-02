@@ -6,12 +6,14 @@ Script to run the Google pagespeed insights api and record the performances in t
 ### Installing
 ```
 git clone git@github.com:rcbcool/pagespeed-insights.git
+```
 cd pagespeed-insights/
+```
 npm i
 ```
   
 ### Executing program
-  ```
+* ```
   cd pagespeed-insights/
   ```
 * Update the domains in multiple lines in the file - **_urls.txt_**
